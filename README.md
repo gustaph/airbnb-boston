@@ -40,3 +40,4 @@ The following are the files available in this repository:
 All data used in this study are from **Airbnb**, provided by **[Kaggle](https://www.kaggle.com)** at [Boston Airbnb Open Data: A sneak peek into the Airbnb activity in Boston, MA, USA](https://www.kaggle.com/airbnb/boston).
 
 ## Results <a name="results"></a>
+You can check the results in the article by clicking **[here](https://medium.com/@gustavosoares112/do-not-visit-boston-without-looking-at-this-first-e90748cc9dce)**.
